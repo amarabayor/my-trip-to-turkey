@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>project: travel webpage</title>
+     </head>  
+       <body>
+        <h1 class="travel-turkey"><strong>Travel To Turkey: One of best experience in life is the traveling experience.Every displacement is the beginging of thounsads mils and thounsands experiences.</strong></h1>
+          <img id="img-001"  src="https://www.kasandbox.org/programming-images/landscapes/beach-at-dusk.png"alt="landscapes">
+     
+    
+    <h2 class="heading-div">Breakfast</h2> 
+    
+    <img id="img-001" src="https://www.kasandbox.org/programming-images/food/croissant.png" alt="food"/>
+        
+        <h3 class="heading-div">Places Visited</h3>
+        <ul>
+         <li id="place-visite">Istanbul</li>
+         <li id="place-visite">Konya</li> 
+         <li id="place-visite">Ankara</li>
+          </ul>
+     <div id="color-padding"><p> This travel experienced through western and centra turkey will take us to some of the oldest and quaint villages. In the culture of turkey from busy <strong>instabul</strong> the villagers.Where culturies old tradition are still pratice the wandering and being amongst anyone love for culture and travel-it was a very great experience for me I can't discuss everything here due to the time frame.<br></p></div>
+     <h4 class="heading-div">2020 Travel Date</h4>
+     <span id="color"><p> 2020 travel schedule has ponsponted because of <em>covid-19,</em>according to the stastetic, <strong>Turkey have 178 confirmed cases, 151 recovered and 4,807 death may their soul rest in peace</strong>.</p></span> 
+     <img id="img-001"src="https://www.kasandbox.org/programming-images/animals/kangaroos.png"alt="kangaroos"/>
+         
+         <P id="plan"><em>Plan to travel!!!</em></P> 
+    </body>
+</html>
